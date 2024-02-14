@@ -18,11 +18,6 @@ Asegúrate de tener instalado Node.js, npm y MySQL en tu sistema para ejecutar e
 
 1. **Clonar el repositorio:**
 
-   ```bash
-   git clone https://tu-repositorio.git
-   cd tu-repositorio
-   ```
-
 2. **Instalar dependencias del backend:**
 
    Navega al directorio del backend y ejecuta `npm install`.
